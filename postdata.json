@@ -1,0 +1,25 @@
+{
+  "post2": [
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "qui est esse",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "body": "my data",
+      "title": "hello data",
+      "id": 3
+    },
+    {
+      "body": "hiii",
+      "title": "jeee",
+      "id": 4
+    },
+    {
+      "body": "iii",
+      "title": "hii",
+      "id": 5
+    }
+  ]
+}
